@@ -5,9 +5,9 @@
 - 📚 Atualmente estou aprendendo informática para internet.
 - 💬 Pergunte-me sobre linguagens de programação web.
 - 🎉 Curiosidade: Tenho 16 anos e estou no segundo ano do ensino médio.
-- 📧 Meu [email](mailto:pfrutopro@gmail.com).
+- 📧 Meu [email](mailto:pedroigor0819@gmail.com).
 
-[![Instagram](https://www.instagram.com/p_parker_1967/)
+[![Instagram][![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=D65C7E&link=https://https://www.instagram.com/p_parker_1967/)](https://www.instagram.com/p_parker_1967/)
 [![Portifólio](https://pedroparker0819.github.io/Parker-Portfolio/)
 
 # Estatísticas 📊
