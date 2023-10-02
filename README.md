@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="center" alt="Parker-pic" width="100%" src="https://media.tenor.com/1IEU-DS3tBkAAAAC/fade-valorant.gif">
 
-<!--
-**PedroParker0819/PedroParker0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! 👋
 
-Here are some ideas to get you started:
+- 📚 Atualmente estou aprendendo informática para internet.
+- 💬 Pergunte-me sobre linguagens de programação web.
+- 🎉 Curiosidade: Tenho 16 anos e estou no segundo ano do ensino médio.
+- 📧 Meu [email](mailto:pfrutopro@gmail.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://www.instagram.com/p_parker_1967/)
+[![Portifólio](https://pedroparker0819.github.io/Parker-Portfolio/)
+
+# Estatísticas 📊
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=dracula&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/pdrfranca)
+[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=dracula&bg_color=000000&hide_border=true)](https://github.com/pdrfranca)
+
+# Tecnologias 💻
+
+- HTML
+- CSS
+- JavaScript
+- Python
