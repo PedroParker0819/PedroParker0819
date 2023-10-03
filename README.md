@@ -21,7 +21,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143
     web aplicações que geram renda passiva.</p>
 
 **********
-<p></p>
 <div align="left">
     🌱 Ａｔｕａｌｍｅｎｔｅ, ｅｓｔｏｕ ａｐｒｅｎｄｅｎｄｏ ｉｎｔｅｇｒａçãｏ ｄｅ ＡＰＩ ｖｏｕ ｉｎｉｃｉａｒ<strong> Ｊｅｓｔ</strong> ｅ <strong> ｒｅａｃｔ<strong><br>
             💬 Posso responder perguntas sobre <strong>JavaScript, HTML, CSS , Java-script </strong> <br>mas sinta-se a
@@ -30,31 +29,3 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143
 <!--  https://psfonttk.com/letras-diferentes-para-nick/-->
 
 ***************
-
-<div align="center">
-    <img height="150em"
-        src="https://github-readme-stats.vercel.app/api?username=rafinha-dev&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
-    <img height="150em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-dev&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact" />
-    <div>
-
-
-        <h3 align="center">Linguagens e Ferramentas:</h3>
-        <p align="center"> 
-            <img height="40" width="40" src="https://cdn.simpleicons.org/html5/808080" /> 
-            <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/808080" /> <img height="40" width="40" src="https://cdn.simpleicons.org/css3/808080" /> <img height="40" width="40"    src="https://cdn.simpleicons.org/jest/808080" /> 
-            <img height="40" width="40" src="https://cdn.simpleicons.org/react/808080" /></p>
-    </div>
-</div>
-
-*******************
-
-<h3 align="center">Entre em contato:</h3>
-<p align="center">
-    <img
-        src="https://custom-icon-badges.demolab.com/badge/contactpedroigor0819@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white">
-    <a href="https://www.linkedin.com/in/rafinhadev/" target="blank"><img
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/rafinha_dev/" target="blank"><img
-            src="https://custom-icon-badges.demolab.com/badge/-Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
