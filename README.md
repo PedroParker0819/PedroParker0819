@@ -5,7 +5,7 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=1000&lines=I+LOVE+MINECRAFT%2C+AND+VALORANT;I+LOVE+MY+GIRLFRIEND;I+LOVE+ANIMES+AND+GAMES)](https://git.io/typing-svg)
 
-<img align="left" src="FADE ICON.png"></iframe>
+<img align="left" src="https://i.pinimg.com/564x/92/34/25/92342590dcf27b15b03df7c98a42f958.jpg">
 
 <p>Estudo front-end e faço pequenos projetos web, tenho vontade de empreende com tecnologia e estou em busca da minha
     vaga como dev front-end junior. Sou aluno do dev quest, prog-br e constantemente estou presente fazendo lives no
@@ -21,6 +21,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143
     web aplicações que geram renda passiva.</p>
 
 **********
+<p></p>
 <div align="left">
     🌱 Ａｔｕａｌｍｅｎｔｅ, ｅｓｔｏｕ ａｐｒｅｎｄｅｎｄｏ ｉｎｔｅｇｒａçãｏ ｄｅ ＡＰＩ ｖｏｕ ｉｎｉｃｉａｒ<strong> Ｊｅｓｔ</strong> ｅ <strong> ｒｅａｃｔ<strong><br>
             💬 Posso responder perguntas sobre <strong>JavaScript, HTML, CSS , Java-script </strong> <br>mas sinta-se a
