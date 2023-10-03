@@ -6,7 +6,7 @@
 - 🎉 Curiosidade: Tenho 16 anos e estou no segundo ano do ensino médio.
 - 📧 Meu [email](mailto:pedroigor0819@gmail.com).
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=D65C7E&link=https://www.instagram.com/mono_gotica.js/)](https://www.instagram.mono_gotica.js)
+(https://www.instagram.mono_gotica.js)
 (https://pedroparker0819.github.io/Parker-Portfolio/)
 
 # Estatísticas 📊
