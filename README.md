@@ -1,5 +1,4 @@
-<img align="center" alt="Parker-pic" width="100%" class="tenor-gif-embed" data-postid="25554097" data-share-method="host" data-aspect-ratio="1.21673" data-width="100%"><a href="https://tenor.com/view/fade-valorant-agent-select-agent-selcet-gif-25554097">Fade Valorant GIF</a>from <a href="https://tenor.com/search/fade-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>>
-
+<img align="center" alt="Parker-pic" width="100%" src="https://tenor.com/pt-BR/view/fade-valorant-agent-select-agent-selcet-gif-25554097">
 # Hello World! 👋
 
 - 📚 Atualmente estou aprendendo informática para internet.
