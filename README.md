@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=1000&lines=I+LOVE+MINECRAFT%2C+AND+VALORANT;I+LOVE+MY+GIRLFRIEND;I+LOVE+ANIMES+AND+GAMES)](https://git.io/typing-svg)
 
-<img align="left" src="https://github.com/rafinha-dev/readme.mes/blob/master/download20221200205038.png" width="320px">
+<img align="left" src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=156500155797678840" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+
 <p>Estudo front-end e faço pequenos projetos web, tenho vontade de empreende com tecnologia e estou em busca da minha vaga como dev front-end junior. Sou aluno do dev quest, prog-br e constantemente estou presente fazendo lives no discord. Criei meu blog a fim de disseminar conhecimento em tecnologia resolver problemas maiores a medida que melhoro meus conhecimentos, algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. 
 Contrubuo com a comunidade de software livre como a debian em mg, adoro mecher em sistemas operacionais e testar. Eu sou muito empolgado e cheio de criatividade, então as vezes preciso me puxar para o chao com tantas ideias rs. Eu fui ator e músico e agora estou na area de TI.
 Meu primeiro objetivo é conseguir minha vaga de front, me aprimorar e me tornar full stack e com conhecimento de back-end investir em conhecer mais sobre ciber security.
