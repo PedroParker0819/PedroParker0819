@@ -1,4 +1,4 @@
-<img align="center" alt="Parker-pic" width="100%" src="https://media.tenor.com/EdHHIquY1TEAAAAd/fade-fade-valorant.gif">
+<img align="center" alt="Parker-pic" width="100%" src="https://media.tenor.com/1IEU-DS3tBkAAAAC/fade-valorant.gif">
 # Hello World! 👋
 
 - 📚 Atualmente estou aprendendo informática para internet.
