@@ -5,10 +5,7 @@
 - 💬 Pergunte-me sobre linguagens de programação web.
 - 🎉 Curiosidade: Tenho 16 anos e estou no segundo ano do ensino médio.
 - 📧 Meu [email](mailto:pedroigor0819@gmail.com).
-
-(https://www.instagram.mono_gotica.js)
-(https://pedroparker0819.github.io/Parker-Portfolio/)
-
+- 
 # Estatísticas 📊
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=dracula&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/pdrfranca)
