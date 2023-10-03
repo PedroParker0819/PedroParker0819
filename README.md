@@ -1,6 +1,6 @@
 <h1 align="center">Olá  <img src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g" width="40px"/>, eu sou Rafael </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143C&width=435&lines=I+LOVE+MINECRAFT%2C+AND+VALORANT;I+LOVE+MY+GIRLFRIEND;I+LOVE+ANIMES+AND+GAMES)](https://git.io/typing-svg)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=I+LOVE+MINECRAFT%2C+AND+VALORANT;I+LOVE+MY+GIRLFRIEND;I+LOVE+ANIMES+AND+GAMES)](https://git.io/typing-svg)
 
 <img align="left" src="https://github.com/rafinha-dev/readme.mes/blob/master/download20221200205038.png" width="320px">
 <p>Estudo front-end e faço pequenos projetos web, tenho vontade de empreende com tecnologia e estou em busca da minha vaga como dev front-end junior. Sou aluno do dev quest, prog-br e constantemente estou presente fazendo lives no discord. Criei meu blog a fim de disseminar conhecimento em tecnologia resolver problemas maiores a medida que melhoro meus conhecimentos, algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. 
@@ -30,7 +30,7 @@ Com meu conhecimento de front-end planejo criar templates para vender, e comerci
 *******************
 
 <h3 align="center">Entre em contato:</h3>
-<p align="center"><img src="[https://custom-icon-badges.demolab.com/badge/contactrodrigues21@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white](https://i.pinimg.com/564x/12/ca/13/12ca1317820e5b578102f38ae364ab4c.jpg)"> 
+<p align="center"><img src="https://custom-icon-badges.demolab.com/badge/contactrodrigues21@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"> 
 <a href="https://www.linkedin.com/in/rafinhadev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/rafinha_dev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://codepen.io/rafinha-dev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-CodePen-808080?style=for-the-badge&logo=CodePen&logoColor=white"></a>
