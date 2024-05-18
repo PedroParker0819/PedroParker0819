@@ -1,5 +1,4 @@
 <h1 align="center">Olá <img
-        src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g"
         width="40px" />, eu sou Pedro Igor </h1>
 
 [![Typing
